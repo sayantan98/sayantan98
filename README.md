@@ -2,6 +2,7 @@
 <h2 align="center">Welcome to my profile</h2></kbd>
 
 [![Website](https://img.shields.io/website?label=sayantan98.github.io&style=for-the-badge&url=https%3A%2F%2Fsayantan98.github.io)](https://sayantan98.github.io)
+![](https://komarev.com/ghpvc/?username=sayantan98)
 
 
 
