@@ -28,7 +28,7 @@
 
 [<img align="left" alt="Python" width="35px" src="http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png" />][Python]
 
-[<img align="left" alt="Java" width="35px" src="https://w7.pngwing.com/pngs/279/249/png-transparent-java-logo-programming-language-java-plum-miscellaneous-text-orange.png" />][Java]
+[<img align="left" alt="Java" width="35px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />][Java]
 
 [<img align="left" alt="JavaScript" width="35px" src="https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg" />][Javascript]
 
@@ -46,7 +46,7 @@
 [C]: https://img.icons8.com/color/452/c-programming.png
 [C++]: https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png
 [Python]: http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png
-[Java]: https://w7.pngwing.com/pngs/279/249/png-transparent-java-logo-programming-language-java-plum-miscellaneous-text-orange.png
+[Java]: https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png
 [Javascript]: https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg
 [Typescript]: https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png
 [Ruby]: https://lh3.googleusercontent.com/proxy/QrY75CRRTmOReY6p0sTpwGHlHO-2heyrDSQX7NmD0Lhkccp9wHYU367h6UwSICLZFXhhEqyYMX5u_tFJ5FQjukPghYghgb9lwz3LRyMXju6scHnkivx6VQ9YA-8h2vXkV8I
