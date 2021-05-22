@@ -7,9 +7,10 @@
 ### Sayantan Das, aka [sayantan98][website], is a computer engineer, expertised in full stack web development !!!
 
 
-![ ](img/bullets.gif) Eager to learn anything new.
+![ ](img/bullets.gif) Eager to learn anything new. <br>
 ![ ](img/bullets.gif) A person whom you can mostly need you're facing problem.
+<br>
 ![ ](img/bullets.gif) Fun Fact : Being a lazy, always finds a smart way to get completed with less effort. 🤣
-
+<br>
 
 [website]: https://sayantan98.github.io
