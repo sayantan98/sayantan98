@@ -8,9 +8,21 @@
 
 
 ![ ](img/bullets.gif) Eager to learn anything new. <br>
+
 ![ ](img/bullets.gif) A person whom you can mostly need you're facing problem.
 <br>
+
+![ ](img/bullets.gif) Goals: To learn & work with great experience in a healthy work environment
+<br>
+
 ![ ](img/bullets.gif) Fun Fact : Being a lazy, always finds a smart way to get completed with less effort. 🤣
 <br>
+
+## Skilled in 👨‍💻 -
+
+### Languages -
+
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />][nothing]
+
 
 [website]: https://sayantan98.github.io
