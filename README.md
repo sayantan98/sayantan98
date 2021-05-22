@@ -22,7 +22,8 @@
 
 ### Languages -
 
-[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />][nothing]
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />][C]
 
 
 [website]: https://sayantan98.github.io
+[C]: https://img.icons8.com/color/452/c-programming.png
