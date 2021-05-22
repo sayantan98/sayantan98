@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=sayantan98.github.io&style=for-the-badge&url=https%3A%2F%2Fsayantan98.github.io)](https://sayantan98.github.io)
 ![](https://komarev.com/ghpvc/?username=sayantan98&color=green)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/sayantan98/badges.svg)](https://GitHub.com/sayantan98/badges/graphs/contributors/)
 
 
 
