@@ -22,8 +22,15 @@
 
 ### Languages -
 
-[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />][C]
+[<img align="left" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" />][C]
+
+[<img align="left" alt="C++" width="35px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" />][C++]
+
+[<img align="left" alt="Python" width="35px" src="http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png" />][Python]
+
 
 
 [website]: https://sayantan98.github.io
 [C]: https://img.icons8.com/color/452/c-programming.png
+[C++]: https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png
+[Python]: http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png
