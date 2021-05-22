@@ -24,7 +24,7 @@
 
 [<img align="left" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" />][C]
 
-[<img align="left" alt="C++" width="35px" src="https://img.favpng.com/2/20/14/the-c-programming-language-computer-icons-computer-programming-source-code-png-favpng-AjeAtPSwUPUTUpvix6NJaxQSx_t.jpg" />][C++]
+[<img align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][C++]
 
 [<img align="left" alt="Python" width="35px" src="http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png" />][Python]
 
@@ -44,7 +44,7 @@
 
 [website]: https://sayantan98.github.io
 [C]: https://img.icons8.com/color/452/c-programming.png
-[C++]: https://img.favpng.com/2/20/14/the-c-programming-language-computer-icons-computer-programming-source-code-png-favpng-AjeAtPSwUPUTUpvix6NJaxQSx_t.jpg
+[C++]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png
 [Python]: http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png
 [Java]: https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png
 [Javascript]: https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg
