@@ -36,6 +36,7 @@
 
 [<img align="left" alt="Ruby" width="35px" src="https://develop.spacemacs.org/layers/+lang/ruby/img/ruby.png" />][Ruby]
 
+<br>
 ### Frontend -
 
 [<img align="left" alt="HTML" width="35px" src="https://www.shareicon.net/data/512x512/2015/08/28/92043_html_512x512.png" />][HTML]
