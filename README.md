@@ -56,6 +56,8 @@
 
 [<img align="left" alt="Flask" width="90px" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png" />][Flask]
 
+[<img align="left" alt="Flask" width="90px" src="https://lh3.googleusercontent.com/proxy/TIgM1tt3F_r6Sd4xA86n-C5twyW1cxKYrqyvrXhyY7d7ifzT0MB0o9WxgRcpZ6m5lCJxXMuO25vQi8DJMonqFAOCmYhbmNTn4FEFysuwhzdgC516yntvAL-7tg" />][Django]
+
 
 
 
@@ -77,3 +79,4 @@
 [Stylus]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Stylus-logo.svg/1200px-Stylus-logo.svg.png
 [React]: https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png
 [Flask]: https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png
+[Django]: https://lh3.googleusercontent.com/proxy/TIgM1tt3F_r6Sd4xA86n-C5twyW1cxKYrqyvrXhyY7d7ifzT0MB0o9WxgRcpZ6m5lCJxXMuO25vQi8DJMonqFAOCmYhbmNTn4FEFysuwhzdgC516yntvAL-7tg
