@@ -36,7 +36,19 @@
 
 [<img align="left" alt="Ruby" width="35px" src="https://develop.spacemacs.org/layers/+lang/ruby/img/ruby.png" />][Ruby]
 
+### Frontend -
 
+[<img align="left" alt="HTML" width="35px" src="https://www.shareicon.net/data/512x512/2015/08/28/92043_html_512x512.png" />][HTML]
+
+[<img align="left" alt="CSS" width="35px" src="https://www.optimum7.com/wp-content/uploads/2013/04/CSS3.png" />][CSS]
+
+[<img align="left" alt="Sass" width="35px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" />][Sass]
+
+[<img align="left" alt="Stylus" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Stylus-logo.svg/1200px-Stylus-logo.svg.png" />][Stylus]
+
+[<img align="left" alt="Bootstrap" width="35px" src="https://www.drupal.org/files/project-images/bootstrap-stack.png" />][Bootstrap]
+
+[<img align="left" alt="React" width="35px" src="https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png" />][React]
 
 
 
@@ -50,3 +62,9 @@
 [Javascript]: https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg
 [Typescript]: https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png
 [Ruby]: https://develop.spacemacs.org/layers/+lang/ruby/img/ruby.png
+[Bootstrap]: https://www.drupal.org/files/project-images/bootstrap-stack.png
+[HTML]: https://www.shareicon.net/data/512x512/2015/08/28/92043_html_512x512.png
+[CSS]: https://www.optimum7.com/wp-content/uploads/2013/04/CSS3.png
+[Sass]: https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
+[Stylus]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Stylus-logo.svg/1200px-Stylus-logo.svg.png
+[React]: https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png
