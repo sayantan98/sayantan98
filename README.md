@@ -56,7 +56,7 @@
 
 [<img align="left" alt="Flask" width="90px" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png" />][Flask]
 
-[<img align="left" alt="Flask" width="90px" src="https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png" />][Django]
+[<img align="left" alt="Flask" width="35px" src="https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png" />][Django]
 
 
 
