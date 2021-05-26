@@ -34,7 +34,7 @@
 
 [<img align="left" alt="TypeScript" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />][Typescript]
 
-[<img align="left" alt="Ruby" width="35px" src="https://lh3.googleusercontent.com/proxy/QrY75CRRTmOReY6p0sTpwGHlHO-2heyrDSQX7NmD0Lhkccp9wHYU367h6UwSICLZFXhhEqyYMX5u_tFJ5FQjukPghYghgb9lwz3LRyMXju6scHnkivx6VQ9YA-8h2vXkV8I" />][Ruby]
+[<img align="left" alt="Ruby" width="35px" src="https://develop.spacemacs.org/layers/+lang/ruby/img/ruby.png" />][Ruby]
 
 
 
@@ -49,4 +49,4 @@
 [Java]: https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png
 [Javascript]: https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg
 [Typescript]: https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png
-[Ruby]: https://lh3.googleusercontent.com/proxy/QrY75CRRTmOReY6p0sTpwGHlHO-2heyrDSQX7NmD0Lhkccp9wHYU367h6UwSICLZFXhhEqyYMX5u_tFJ5FQjukPghYghgb9lwz3LRyMXju6scHnkivx6VQ9YA-8h2vXkV8I
+[Ruby]: https://develop.spacemacs.org/layers/+lang/ruby/img/ruby.png
