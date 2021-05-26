@@ -35,9 +35,9 @@
 [<img align="left" alt="TypeScript" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />][Typescript]
 
 [<img align="left" alt="Ruby" width="35px" src="https://develop.spacemacs.org/layers/+lang/ruby/img/ruby.png" />][Ruby]
-<br>
+<br><br>
 
-### Frontends -
+### Frontend -
 
 [<img align="left" alt="HTML" width="35px" src="https://www.shareicon.net/data/512x512/2015/08/28/92043_html_512x512.png" />][HTML]
 
@@ -50,6 +50,13 @@
 [<img align="left" alt="Bootstrap" width="35px" src="https://www.drupal.org/files/project-images/bootstrap-stack.png" />][Bootstrap]
 
 [<img align="left" alt="React" width="35px" src="https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png" />][React]
+<br><br>
+
+### Backend -
+
+[<img align="left" alt="Flask" width="90px" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png" />][Flask]
+
+
 
 
 
@@ -69,3 +76,4 @@
 [Sass]: https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
 [Stylus]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Stylus-logo.svg/1200px-Stylus-logo.svg.png
 [React]: https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png
+[Flask]: https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png
