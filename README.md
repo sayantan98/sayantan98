@@ -65,9 +65,9 @@
 
 [<img align="left" alt="Scikit" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />][Scikit]
 
-[<img align="left" alt="HTML" width="90px" src="https://opennlp.apache.org/img/opennlp-logo.png" />][NLP]
+[<img align="left" alt="HTML" width="90px" src="https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png" />][Tensorflow]
 
-[<img align="left" alt="Tensorflow" width="35px" src="https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png" />][Tensorflow]
+[<img align="left" alt="HTML" width="90px" src="https://opennlp.apache.org/img/opennlp-logo.png" />][NLP]
 
 
 
@@ -98,3 +98,4 @@
 [Rails]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png
 [Scikit]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png
 [NLP]: https://opennlp.apache.org/img/opennlp-logo.png
+[Tensorflow]: https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png
