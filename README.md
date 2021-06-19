@@ -60,6 +60,13 @@
 
 [<img align="left" alt="Rails" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png" />][Rails]
 
+### Data Science -
+
+[<img align="left" alt="Scikit" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />][Scikit]
+
+[<img align="left" alt="Tensorflow" width="35px" src="https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png" />][Tensorflow]
+
+
 
 
 
@@ -83,3 +90,4 @@
 [Flask]: https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png
 [Django]: https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png
 [Rails]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png
+[Scikit]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png
