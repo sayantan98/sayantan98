@@ -65,9 +65,19 @@
 
 [<img align="left" alt="Scikit" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />][Scikit]
 
-[<img align="left" alt="HTML" width="35px" src="https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png" />][Tensorflow]
+[<img align="left" alt="TF" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][Tensorflow]
 
-[<img align="left" alt="HTML" width="90px" src="https://opennlp.apache.org/img/opennlp-logo.png" />][NLP]
+[<img align="left" alt="NLP" width="90px" src="https://opennlp.apache.org/img/opennlp-logo.png" />][NLP]
+
+<br><br>
+
+### Tools -
+
+[<img align="left" alt="vs code" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />][vscode]
+
+[<img align="left" alt="jb" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/1200px-JetBrains_Logo_2016.svg.png" />][jb]
+
+[<img align="left" alt="jn" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" />][jn]
 
 
 
@@ -99,3 +109,6 @@
 [Scikit]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png
 [NLP]: https://opennlp.apache.org/img/opennlp-logo.png
 [Tensorflow]: https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png
+[vscode]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png
+[jb]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/1200px-JetBrains_Logo_2016.svg.png
+[jn]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png
