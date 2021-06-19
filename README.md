@@ -58,6 +58,8 @@
 
 [<img align="left" alt="Flask" width="35px" src="https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png" />][Django]
 
+[<img align="left" alt="Rails" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png" />][Rails]
+
 
 
 
@@ -80,3 +82,4 @@
 [React]: https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png
 [Flask]: https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png
 [Django]: https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png
+[Rails]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png
