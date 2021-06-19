@@ -66,6 +66,8 @@
 
 [<img align="left" alt="Tensorflow" width="35px" src="https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png" />][Tensorflow]
 
+[<img align="left" alt="Tensorflow" width="35px" src="https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png" />][Tensorflow]
+
 [<img align="left" alt="HTML" width="35px" src="https://opennlp.apache.org/img/opennlp-logo.png" />][NLP]
 
 
